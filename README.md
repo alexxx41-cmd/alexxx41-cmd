@@ -59,6 +59,26 @@ In especially complex situations, I can go lower-level and use **Assembly**.
 
 ---
 
+## BLACK PANELS
+
+```txt
+[ SYSTEM ]      Full-Stack mode active
+[ UI MODE ]     Dark / minimal / sharp
+[ PRIMARY ]     Frontend engineering
+[ SECONDARY ]   Backend / bots / automation
+[ DEBUG ]       Low-level fallback available
+```
+
+<div align="center">
+
+![Mode](https://img.shields.io/badge/Profile_Mode-BLACKED_OUT-000000?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-FRONTEND_HEAVY-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Tasks](https://img.shields.io/badge/Tasks-FULL_STACK-000000?style=for-the-badge&logo=codefactor&logoColor=white)
+
+</div>
+
+---
+
 ## EXPERIENCE MAP
 
 | Area | Level |
@@ -79,6 +99,65 @@ In especially complex situations, I can go lower-level and use **Assembly**.
 [+ ] Developing Telegram bots
 [+ ] Solving backend tasks with Python and Node.js
 [+ ] Working on complex cases with deeper low-level tools
+```
+
+---
+
+## MINIGAME
+
+```txt
+BLACK TERMINAL // ACCESS TEST
+One correct path. Two traps.
+Choose your route:
+```
+
+<div align="center">
+
+[ `Terminal A` ](#terminal-a)  [ `Terminal B` ](#terminal-b)  [ `Terminal C` ](#terminal-c)
+
+</div>
+
+### Terminal A
+
+```txt
+ACCESSING...
+SIGNAL LOST
+You found a dead node.
+```
+
+[ Try again ](#minigame)
+
+### Terminal B
+
+```txt
+ACCESSING...
+CORE LINK ESTABLISHED
+Mission complete.
+Reward unlocked: +100 Dark Dev Aura
+```
+
+[ Play again ](#minigame)
+
+### Terminal C
+
+```txt
+ACCESSING...
+SECURITY TRAP
+The system kicked you back to the lobby.
+```
+
+[ Try again ](#minigame)
+
+---
+
+## NIGHT STATS
+
+```txt
+STACK POWER      Next.js / TypeScript / Tailwind CSS
+BOT OPS          Telegram / Python / Node.js
+WORKFLOW         Versatile tasks across frontend and backend
+MAIN EDGE        Stronger practical frontend experience
+LAST RESORT      Assembly
 ```
 
 ---
