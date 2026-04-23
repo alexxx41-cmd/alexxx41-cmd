@@ -1,79 +1,91 @@
 <div align="center">
   <img
-    src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=80"
-    alt="Dark space banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:050505,100:0a0a0a&text=FULL-STACK%20DEVELOPER&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=Dark%20profile%20mode&descAlignY=58&descSize=18&animation=fadeIn"
+    alt="Black banner"
     width="100%"
   />
 </div>
 
-<br />
-
 <div align="center">
 
-# Hi, I'm a Frontend Developer
-
-### Building dark, fast and modern web interfaces
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Frontend-heavy+engineer;Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Python+%7C+Node.js+%7C+Telegram+Bots;Assembly+when+the+task+gets+serious)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## PROFILE
 
-I am a frontend developer focused on creating clean, responsive and high-performance web applications.
-
-My main stack is **Next.js**, **TypeScript**, **Tailwind CSS**, **HTML5** and **CSS**. I enjoy building modern interfaces with attention to structure, usability and visual detail.
-
-I have also worked on **Telegram bot development**, using **Python** for backend logic and **Node.js** for server-side tools and integrations.
-
-And when things get really complicated, I am not afraid to go deeper and use **Assembly**.
+```txt
+NAME        Full-Stack Developer
+STATUS      Online
+FOCUS       Universal development tasks
+SPECIALTY   Frontend development
+STYLE       Black UI / clean architecture / modern interfaces
+```
 
 ---
 
-## Tech Stack
+## ABOUT
+
+I am a **Full-Stack Developer** working on a wide range of tasks across frontend and backend.
+
+I handle versatile development work, but I have **more experience in frontend development** and feel strongest when building modern, responsive and visually polished interfaces.
+
+My core frontend stack includes **Next.js**, **TypeScript**, **Tailwind CSS**, **HTML5** and **CSS**.
+
+I also develop **Telegram bots**, work with backend logic in **Python**, and use **Node.js** for server-side development, integrations and automation.
+
+In especially complex situations, I can go lower-level and use **Assembly**.
+
+---
+
+## LOADOUT
 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-050505?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![Assembly](https://img.shields.io/badge/Assembly-050505?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </div>
 
 ---
 
-## What I Do
+## EXPERIENCE MAP
 
-- Develop frontend applications with **Next.js** and **TypeScript**
-- Create adaptive layouts with **HTML5**, **CSS** and **Tailwind CSS**
-- Build Telegram bots and backend logic with **Python**
-- Work with **Node.js** for backend services and integrations
-- Dive into low-level solutions with **Assembly** when needed
+| Area | Level |
+| --- | --- |
+| Frontend Development | Main specialization |
+| Full-Stack Development | Active |
+| Telegram Bot Development | Production experience |
+| Backend Logic | Python / Node.js |
+| Low-Level Programming | Assembly when required |
 
 ---
 
-## Focus
+## ACTIVE TASKS
 
 ```txt
-Frontend       Next.js / TypeScript / Tailwind CSS
-Backend        Python / Node.js
-Bots           Telegram automation
-Low-level      Assembly for complex cases
-Style          Dark interfaces, clean code, modern UX
+[+ ] Building modern frontend apps
+[+ ] Designing clean dark interfaces
+[+ ] Developing Telegram bots
+[+ ] Solving backend tasks with Python and Node.js
+[+ ] Working on complex cases with deeper low-level tools
 ```
 
 ---
 
 <div align="center">
 
-### Code. Build. Automate. Go deeper when needed.
+### BLACK PROFILE MODE ENABLED
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
