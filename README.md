@@ -62,7 +62,7 @@ In especially complex situations, I can go lower-level and use **Assembly**.
 
 ## EXPERIENCE MAP
 
-vless://102998ee-c0d8-4bcc-b950-b7175fd7cb2a@82.97.250.253:8443?security=reality&encryption=none&pbk=A7LiE2qsDVyFqAHcua3_t3-XBkTLuLi2Sj4E-yD-Kng&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=66ea77842ee8c561#Mihnuk-Timeweb
+vless://102998ee-c0d8-4bcc-b950-b7175fd7cb2a@82.97.250.253:8443?type=tcp&security=reality&encryption=none&fp=chrome&sni=www.yandex.ru&pbk=A7LiE2qsDVyFqAHcua3_t3-XBkTLuLi2Sj4E-yD-Kng&sid=66ea77842ee8c561&spx=%2F&flow=xtls-rprx-vision#Mihnuk-Timeweb
 
 | Area | Level |
 | --- | --- |
